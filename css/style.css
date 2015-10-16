@@ -1,0 +1,19 @@
+/* CSS Document */
+
+body {
+    background-color: #DDDDDD;
+    color: black;
+    font-size: 18px;
+    font-family: sans-serif;
+    width: 75%;
+    margin: auto;
+}
+
+article {
+    font-family: serif;
+    background-color: beige;
+}
+
+aside {
+    font-size: 10px;
+}
