@@ -11,3 +11,10 @@
   </li>
 </ul>
 
+# typography
+
+<ul>
+  <li>
+    <a target="_blank" href="http://hellohappy.org/beautiful-web-type/">Beautiful web type</a>
+  </li>
+</ul>
